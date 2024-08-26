@@ -1,7 +1,7 @@
 # Road Map Studies
 
 ## GIT 
-- [x] Git e GitHub
+- [ ] Git e GitHub
 - [x] Markdown
 
 ## JS
