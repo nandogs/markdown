@@ -1,9 +1,9 @@
 # road map studies
 
-========================================= GIT =============================
+## GIT 
 [] git e github
 [x] Markdown
-========================================JS================================
+## JS
 [] Array
 [] Continue/Break
 [] Falsy
@@ -30,9 +30,9 @@
 [] new MAP
 [] new Set
 [] Math
-=============================================================JS==================================
+## JS
 
-===============================================HTML e CSS e JS ==================================
+## HTML e CSS e JS 
 [] CSS/HTML
 [] validaçoes de dados
 [] CEO 
@@ -42,9 +42,9 @@
 [] document = DOM
 [] request AJAX
 [] form na mao js
-===============================================HTML e CSS e JS ==================================
+## HTML e CSS e JS 
 
-===============================================ReactJS e BACKEND e FRONTEND ===================================
+## ReactJS e BACKEND e FRONTEND 
 [] como funciona - SPA - BABEL
 [] React como criar
 [] useEffect
@@ -76,9 +76,8 @@
 [] react-icons
 [] yup - reacthookform
 
-========================================================================PROJETO FINAL====================
+## PROJETO FINAL
 [] kamban e scrum como funciona em um projeto real
 [] carrinho de compras
 [] frontend
 [] backend
-========================================================================================================
