@@ -1,83 +1,82 @@
-# road map studies
+# Road Map Studies
 
 ## GIT 
-[] git e github
-[x] Markdown
+- [ ] Git e GitHub
+- [x] Markdown
+
 ## JS
-[] Array
-[] Continue/Break
-[] Falsy
-[] For
-[] ForIn
-[] ForOf
-[] Function
-[] Object Date
-[] Objects
-[] SetTime
-[] Strings
-[] SwithCase
-[] Try/Catch/Finaly
-[] Variables
-[] Escopo
-[] WhileDoWhile
-[] replace
-[] slice
-[] trim
-[] map
-[] filter
-[] reduce
-[] como criar array 
-[] new MAP
-[] new Set
-[] Math
-## JS
+- [ ] Array
+- [ ] Continue/Break
+- [ ] Falsy
+- [ ] For
+- [ ] ForIn
+- [ ] ForOf
+- [ ] Function
+- [ ] Object Date
+- [ ] Objects
+- [ ] SetTime
+- [ ] Strings
+- [ ] SwitchCase
+- [ ] Try/Catch/Finally
+- [ ] Variables
+- [ ] Escopo
+- [ ] While/DoWhile
+- [ ] replace
+- [ ] slice
+- [ ] trim
+- [ ] map
+- [ ] filter
+- [ ] reduce
+- [ ] Como criar array 
+- [ ] new Map
+- [ ] new Set
+- [ ] Math
 
 ## HTML e CSS e JS 
-[] CSS/HTML
-[] validaçoes de dados
-[] CEO 
-[] SEMANTICA
-[] Acessbilidade
-[] Primeiro projeto js + html + css 
-[] document = DOM
-[] request AJAX
-[] form na mao js
-## HTML e CSS e JS 
+- [ ] CSS/HTML
+- [ ] Validações de dados
+- [ ] CEO 
+- [ ] Semântica
+- [ ] Acessibilidade
+- [ ] Primeiro projeto JS + HTML + CSS 
+- [ ] Document = DOM
+- [ ] Request AJAX
+- [ ] Form na mão JS
 
 ## ReactJS e BACKEND e FRONTEND 
-[] como funciona - SPA - BABEL
-[] React como criar
-[] useEffect
-[] useState
-[] import/require
-[] Ref
-[] Components
-[] variantes com styled components
-[] Siclo de vida de components
-[] react router dom
-[] props
-[] repasse de props
-[] contextapi
-[] custom hook
-[] helpes
-[] services
-[] assets
-[] styled components - em projetos - e loucuras
-[] autenticação - json server - api storage  - localstorage, storage - cookie
-[] backend auth - meddware, estrutura, prismaORM - TS 
-[] NextJS
-[] MUI
-[] DateFNS
-[] ReactQuery
-[] axios
-[] jwt-decode - JWT
-[] moment
-[] tostfy]
-[] react-icons
-[] yup - reacthookform
+- [ ] Como funciona - SPA - BABEL
+- [ ] React como criar
+- [ ] useEffect
+- [ ] useState
+- [ ] import/require
+- [ ] Ref
+- [ ] Components
+- [ ] Variantes com styled components
+- [ ] Ciclo de vida de components
+- [ ] React Router DOM
+- [ ] Props
+- [ ] Repasse de props
+- [ ] Context API
+- [ ] Custom hook
+- [ ] Helpers
+- [ ] Services
+- [ ] Assets
+- [ ] Styled components - em projetos - e loucuras
+- [ ] Autenticação - JSON Server - API Storage - localStorage, storage - cookie
+- [ ] Backend Auth - Middleware, estrutura, Prisma ORM - TS 
+- [ ] NextJS
+- [ ] MUI
+- [ ] DateFNS
+- [ ] React Query
+- [ ] Axios
+- [ ] jwt-decode - JWT
+- [ ] Moment
+- [ ] Toastify
+- [ ] React Icons
+- [ ] Yup - React Hook Form
 
 ## PROJETO FINAL
-[] kamban e scrum como funciona em um projeto real
-[] carrinho de compras
-[] frontend
-[] backend
+- [ ] Kanban e Scrum como funciona em um projeto real
+- [ ] Carrinho de compras
+- [ ] Frontend
+- [ ] Backend
